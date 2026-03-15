@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-I'm **Nandan K S** a passionate **Full-Stack Developer** and **MCA student** at **CMR Institute of Technology, Bengaluru**.
+I'm **Nandan K S** — a passionate **Full-Stack Developer** and **MCA student** at **CMR Institute of Technology, Bengaluru**.
 
-I build **scalable web applications** and **AI-powered solutions** that solve real-world problems from real-time video conferencing platforms with on-the-fly meeting summaries to fully offline voice assistants that keep your data private.
+I build **scalable web applications** and **AI-powered solutions** that solve real-world problems — from real-time video conferencing platforms with on-the-fly meeting summaries to fully offline voice assistants that keep your data private.
 
-I'm captivated by the intersection of **real-time systems**, **AI / NLP**, and **clean software architecture**. For me, writing great software isn't just about making things work it's about making them work *beautifully*.
+I'm captivated by the intersection of **real-time systems**, **AI / NLP**, and **clean software architecture**. For me, writing great software isn't just about making things work — it's about making them work *beautifully*.
 
 > *"Let's build something impactful together."*
 
@@ -115,7 +115,7 @@ I'm captivated by the intersection of **real-time systems**, **AI / NLP**, and *
 
 `React` · `Vite` · `TailwindCSS` · `Node.js` · `Socket.IO` · `WebRTC` · `Web Audio API`
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandan-k-s-27/HearTogether)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://hear-together-ten.vercel.app/)&nbsp;[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandan-k-s-27/HearTogether)
 
 ---
 
@@ -132,7 +132,7 @@ I'm captivated by the intersection of **real-time systems**, **AI / NLP**, and *
 
 `Python` · `OpenAI Whisper` · `PyAutoGUI` · `pyttsx3` · `NLP Pipelines` · `Windows OS`
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandan-k-s-27/varna-voice-assistant)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=githubpages&logoColor=white)](https://nandan-k-s-27.github.io/varna-voice-assistant)&nbsp;[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandan-k-s-27/varna-voice-assistant)
 
 ---
 
@@ -158,7 +158,7 @@ I'm captivated by the intersection of **real-time systems**, **AI / NLP**, and *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandanks2003)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandan-k-s-27)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Nandan-k-s-27/nandanks-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://nandanks.me)
 
 </div>
 
