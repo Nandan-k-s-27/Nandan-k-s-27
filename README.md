@@ -150,6 +150,9 @@ I'm captivated by the intersection of **real-time systems**, **AI / NLP**, and *
 
 </div>
 
+> [!NOTE]
+> The public streak card service can lag because it uses GitHub contribution data, which is reported in UTC and can be cached before it refreshes. For the most accurate and fastest updates, self-host the streak card and disable cache in your deployment.
+
 ---
 
 ## 🤝 Connect with Me
